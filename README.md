@@ -17,14 +17,14 @@
 ![Gradle](https://img.shields.io/badge/Gradle-02303A?logo=gradle&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=githubactions&logoColor=white)
 
-## Featured projects (in progress)
+## Featured projects
 
 | Project | What it is | Status |
 |---|---|---|
+| [document_scanner](https://github.com/MaBoRokun/document_scanner) | Android receipt and document scanner: CameraX, on-device ML (OCR), NDK/C++ edge detection, Compose Canvas overlays, page editor, 5 languages | ✅ v1.0 released |
 | [vitalog-kmp](https://github.com/MaBoRokun/vitalog-kmp) | Offline-first health habit/symptom journal, Kotlin + Compose Multiplatform | 🚧 Planning |
 | [sdui-compose-engine](https://github.com/MaBoRokun/sdui-compose-engine) | Server-Driven UI engine in Compose Multiplatform with a Ktor backend | 🚧 Planning |
 | [kmp-job-queue](https://github.com/MaBoRokun/kmp-job-queue) | KMP library: prioritized job queue, retry/backoff, parallelism limits | 🚧 Planning |
-| [ondevice-doc-scanner](https://github.com/MaBoRokun/ondevice-doc-scanner) | Android document scanner with on-device ML and Compose Canvas overlays | 🚧 Planning |
 
 All projects are clean-room, use synthetic data only, and are not medical devices.
 
